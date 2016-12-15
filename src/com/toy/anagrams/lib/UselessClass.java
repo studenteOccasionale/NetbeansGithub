@@ -10,8 +10,5 @@ package com.toy.anagrams.lib;
  * @author francesco
  */
 public class UselessClass {
-
-    public UselessClass() {
-    }
     
 }
