@@ -12,6 +12,7 @@ package com.toy.anagrams.lib;
 public class UselessClass {
     
     private int uselessIntVariable;
+    private int moreUselessVariable;
 
     public UselessClass (int i) {
         uselessIntVariable = i;
